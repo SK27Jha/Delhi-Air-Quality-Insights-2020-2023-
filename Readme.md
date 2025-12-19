@@ -1,4 +1,4 @@
-[Delhi_Air_Crisis_Three_Year_Analysis.pdf](https://github.com/user-attachments/files/24254756/Delhi_Air_Crisis_Three_Year_Analysis.pdf)🌫️ Delhi Air Quality Insights (2020–2023)
+🌫️ Delhi Air Quality Insights (2020–2023)
 
 An end-to-end air quality analytics project using Python, Excel, and Power BI to uncover long-term pollution patterns in India’s capital.
 
