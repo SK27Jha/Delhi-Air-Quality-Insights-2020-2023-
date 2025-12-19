@@ -149,7 +149,7 @@ Year–Month slicer → detailed time-based exploration
 
 🛠 Tools & Technologies
 
-Python: Pandas, NumPy, Matplotlib, Seaborn
+Python: Pandas
 
 Microsoft Excel: Pivot Tables, Data Validation
 
@@ -167,7 +167,9 @@ Clean air days are extremely limited
 
 📁 Repository Structure
 
+
 📂 Delhi-Air-Quality-Insights
+
  ├── data/
  │   └── delhi_aqi.csv
  ├── notebooks/
