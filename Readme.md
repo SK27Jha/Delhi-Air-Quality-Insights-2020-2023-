@@ -1,28 +1,33 @@
-📊 Delhi Air Quality Insights (2020–2023)
+[Delhi_Air_Crisis_Three_Year_Analysis.pdf](https://github.com/user-attachments/files/24254756/Delhi_Air_Crisis_Three_Year_Analysis.pdf)🌫️ Delhi Air Quality Insights (2020–2023)
 
-📌 Project Overview![Uploading Screenshot 2025-12-19 123035.png…]()
+An end-to-end air quality analytics project using Python, Excel, and Power BI to uncover long-term pollution patterns in India’s capital.
+
+<img width="1919" height="935" alt="Screenshot 2025-12-19 123035" src="https://github.com/user-attachments/assets/a3bb7ba9-5987-454e-98cf-2ecbfc33c9a8" />
 
 
-This project presents a comprehensive air quality analysis of Delhi (2020–2023) using Python, Excel, and Power BI.
-Hourly pollutant-level data is cleaned, explored, and visualized to uncover seasonal trends, pollutant dominance, air quality distribution, and clean air frequency.
+📌 Project Overview
 
-The project demonstrates an end-to-end data analytics workflow — from raw data preprocessing to interactive dashboard reporting.
+Delhi continues to face a severe air pollution crisis with serious health and environmental implications.
+This project analyzes hourly air quality data from 2020 to 2023 to identify seasonal trends, dominant pollutants, air quality distribution, and the frequency of clean air days.
 
-🎯 Objectives
+The project showcases a complete data analytics lifecycle — from raw data preprocessing and exploratory analysis to interactive dashboard-based storytelling.
 
-[Delhi_Air_Crisis_Three_Year_Analysis.pdf](https://github.com/user-attachments/files/24254512/Delhi_Air_Crisis_Three_Year_Analysis.pdf)
+📄 Project Report: [Uploading Delhi_Air_Crisis_Three_Year_Analysis.pdf…]()
 
-Clean and preprocess large hourly air quality datasets
+
+🎯 Project Objectives
+
+Clean and preprocess large-scale hourly air quality datasets
 
 Perform exploratory data analysis (EDA) using Python and Excel
 
 Identify seasonal and monthly pollution patterns
 
-Analyze dominant pollutants affecting AQI
+Analyze dominant pollutants impacting AQI
 
 Classify air quality into standard AQI categories
 
-Build an interactive Power BI dashboard for insights delivery
+Build an interactive Power BI dashboard for insight-driven decision-making
 
 🧪 Dataset Description
 
@@ -46,69 +51,69 @@ NH₃
 
 🔄 Data Processing Workflow
 
-🐍 Python
+🐍 Python – Analysis & Feature Engineering
 
-Data cleaning (handling missing values, type conversions)
+Data cleaning (missing values, type conversions)
 
 Time-series feature engineering (Year, Month, Day, Day Name)
 
-Exploratory Data Analysis (trend detection, summary statistics)
+Exploratory Data Analysis (trend detection, statistical summaries)
 
-Pollution category classification logic
+Air quality category classification logic
 
-Data validation before visualization
+Data validation prior to visualization
 
-📊 Excel
+📊 Excel – Validation & Cross-Checks
 
 Initial data inspection and sanity checks
 
-Pivot tables for quick aggregation
+Pivot tables for rapid aggregation
 
-Cross-verification of averages and trends
+Cross-verification of pollutant averages and trends
 
-Basic exploratory summaries for consistency
+Ensuring analytical consistency
 
-📈 Power BI
+📈 Power BI – Visualization & Storytelling
 
 Data modeling and relationships
 
 DAX measures for KPIs and aggregations
 
-Interactive visualizations and slicers
+Interactive slicers and filters
 
-Dashboard design and storytelling
+Dashboard design focused on clarity and impact
 
-📈 Dashboard Components
+📊 Dashboard Highlights
 
-1. Key Metrics (KPIs)
+🔢 Key Air Quality Metrics
 
 Average PM10: 300.09
 
 Average PM2.5: 238.13
 
-These KPIs indicate severely elevated particulate matter levels, posing continuous public health risks.
+🚨 These values indicate severely elevated particulate matter levels, posing continuous public health risks.
 
-2. PM2.5 Temporal Trend Analysis
+📉 PM2.5 Temporal Trend Analysis
 
-Visualizes PM2.5 variation by Year, Quarter, Month, and Day
+Tracks PM2.5 variations by Year, Quarter, Month, and Day
 
-Highlights recurring winter pollution spikes
+Reveals consistent winter pollution spikes
 
-Shows reduced levels during monsoon months
+Shows relatively lower pollution during monsoon months
 
-Insight: Air pollution in Delhi is seasonal, predictable, and persistent.
+Insight: Delhi’s air pollution is seasonal, predictable, and persistent.
 
-3. Pollutant Contribution Analysis
+🧪 Pollutant Contribution Analysis
 
 Comparative analysis of average pollutant concentrations
 
 PM10 and PM2.5 dominate overall pollution
 
-Gaseous pollutants have comparatively lower impact
+Gaseous pollutants show relatively lower impact
 
-4. Air Quality Category Distribution
+🎯 Air Quality Category Distribution
 
-Hourly air quality categorized into:
+Hourly air quality classified into:
 
 Good
 
@@ -122,41 +127,41 @@ Very Poor
 
 Severe
 
-Observation: Most observations fall under Poor to Severe categories, indicating chronic exposure.
+⚠️ Observation: Most readings fall under Poor to Severe categories, highlighting chronic exposure.
 
-5. Clean Air Days Indicator
+🌱 Clean Air Days Indicator
 
 Total Clean Days (2020–2023): 31
 
-This reflects the rarity of acceptable air quality over multiple years.
+Only 31 clean air days across multiple years, emphasizing the severity of Delhi’s air quality challenge.
 
-6. Monthly Pollution Patterns
+📆 Monthly Pollution Patterns
 
 PM10 and PM2.5 peak sharply in December
 
-Confirms winter as the highest-risk pollution period
+Confirms winter as the highest-risk period for air quality
 
-7. Interactivity
+🎛 Interactivity
 
-Day Name filter for weekday vs weekend analysis
+Day Name filter → weekday vs weekend analysis
 
-Year–Month slicer for granular time-based exploration
+Year–Month slicer → detailed time-based exploration
 
 🛠 Tools & Technologies
 
-Python (Pandas, NumPy, Matplotlib/Seaborn)
+Python: Pandas, NumPy, Matplotlib, Seaborn
 
-Microsoft Excel (Pivot Tables, Data Validation)
+Microsoft Excel: Pivot Tables, Data Validation
 
-Power BI (DAX, Power Query, Interactive Visuals)
+Power BI: DAX, Power Query, Interactive Visuals
 
 📌 Key Insights Summary
 
-Delhi’s air pollution is chronic and seasonal
+Delhi’s air pollution is chronic and seasonally driven
 
-Particulate matter (PM10 & PM2.5) is the primary contributor
+PM10 and PM2.5 are the primary contributors
 
-Winter months pose the highest health risk
+Winter months pose the highest health risks
 
 Clean air days are extremely limited
 
@@ -171,8 +176,9 @@ Clean air days are extremely limited
  │   └── delhi pollution.pbix
  ├── images/
  │   └── dashboard_screenshots.png
+ ├── reports/
+ │   └── Delhi_Air_Crisis_Three_Year_Analysis.pdf
  └── README.md
-
 
 👤 Author
 
