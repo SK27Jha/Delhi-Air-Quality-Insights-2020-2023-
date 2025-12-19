@@ -1,6 +1,7 @@
 📊 Delhi Air Quality Insights (2020–2023)
 
-📌 Project Overview
+📌 Project Overview![Uploading Screenshot 2025-12-19 123035.png…]()
+
 
 This project presents a comprehensive air quality analysis of Delhi (2020–2023) using Python, Excel, and Power BI.
 Hourly pollutant-level data is cleaned, explored, and visualized to uncover seasonal trends, pollutant dominance, air quality distribution, and clean air frequency.
