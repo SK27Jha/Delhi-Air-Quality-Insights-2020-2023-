@@ -1,4 +1,5 @@
 **Delhi Air Quality Insights (2020–2023)**
+
 A Data-Driven Analysis of Urban Air Pollution in India’s Capital
 
 **Introduction**
@@ -29,31 +30,31 @@ Air pollution in Delhi poses a serious threat to public health and environmental
 
 **This project aims to address the following questions:**
 
-*.*What are the dominant pollutants affecting Delhi’s air quality?
+•What are the dominant pollutants affecting Delhi’s air quality?
 
-*.*How does air pollution vary seasonally and monthly?
+•How does air pollution vary seasonally and monthly?
 
-*.*How frequently does Delhi experience clean air?
+•How frequently does Delhi experience clean air?
 
-Which AQI categories dominate over time?
+•Which AQI categories dominate over time?
 
-Is air pollution episodic or structurally recurring?
+•Is air pollution episodic or structurally recurring?
 
-Objectives
+**Objectives**
 
-*.*Clean and preprocess large-scale hourly air quality data
+•Clean and preprocess large-scale hourly air quality data
 
-*.*Perform exploratory data analysis (EDA)
+•Perform exploratory data analysis (EDA)
 
-*.*Identify seasonal and temporal pollution trends
+•Identify seasonal and temporal pollution trends
 
-*.*Analyze pollutant-wise contribution to air quality
+•Analyze pollutant-wise contribution to air quality
 
-*.*Classify air quality using standard AQI categories
+•Classify air quality using standard AQI categories
 
-*.*Build an interactive dashboard for insight delivery
+•Build an interactive dashboard for insight delivery
 
-Dataset Description
+**Dataset Description**
 
 The dataset contains hourly air quality records for Delhi, sourced from open air quality monitoring platforms.
 
@@ -61,14 +62,14 @@ The dataset contains hourly air quality records for Delhi, sourced from open air
 
 **Column Name	Description**
 
-*.*Date	
-*.*PM2.5 concentration
-*.*PM10 concentration
-*.*NO	Nitric Oxide
-*.*N02	Nitrogen Dioxide
-*.*SO2	Sulphur Dioxide
-*.*O3	Ozone
-*.*NH3	Ammonia
+•Date	
+•PM2.5 concentration
+•PM10 concentration
+•NO	Nitric Oxide
+•N02	Nitrogen Dioxide
+•SO2	Sulphur Dioxide
+•O3	Ozone
+•NH3	Ammonia
 
 **Tools & Technologies Used**
 
@@ -84,79 +85,86 @@ The dataset contains hourly air quality records for Delhi, sourced from open air
 
 **Methodology**
 
-*.*Data Cleaning
+•Data Cleaning
 
-*.*Handling missing values
+•Handling missing values
 
-*.*Timestamp standardization
+•Timestamp standardization
 
-*.*Outlier inspection
+•Outlier inspection
 
-*.*Data type correction
+•Data type correction
 
-*.*Exploratory Data Analysis
+•Exploratory Data Analysis
 
-*.*Pollutant-wise averages
+•Pollutant-wise averages
 
-*.*Time-series analysis
+•Time-series analysis
 
 **Seasonal & monthly trend identification**
 
-Air Quality Classification
+•Air Quality Classification
 
-AQI category mapping
+•AQI category mapping
 
-Distribution analysis of AQI classes
+•Distribution analysis of AQI classes
 
 **Dashboard Development**
 
-KPI cards
+•KPI cards
 
-Time-series visuals
+•Time-series visuals
 
-Donut & bar charts
+•Donut & bar charts
 
-Clean-day indicators
+•Clean-day indicators
 
-Key Metrics Analyzed
+•Key Metrics Analyzed
 
-Average PM10 & PM2.5 concentration
+•Average PM10 & PM2.5 concentration
 
-Seasonal PM2.5 variation
+•Seasonal PM2.5 variation
 
-Pollutant dominance ranking
+•Pollutant dominance ranking
 
-AQI category distribution
+•AQI category distribution
 
-Total number of clean air days
+•Total number of clean air days
 
-Monthly pollution intensity
+•Monthly pollution intensity
 
 **Summary of Results**
 
 **1. Particulate Matter Dominance**
+<img width="1467" height="773" alt="image" src="https://github.com/user-attachments/assets/a4a3e740-953f-427c-99da-c7a14c9b3155" />
 
-*.*PM10 and PM2.5 are the primary drivers of Delhi’s poor air quality.
 
-*.*Average PM2.5 values remain far above safe limits.
+•PM10 and PM2.5 are the primary drivers of Delhi’s poor air quality.
+
+•Average PM2.5 values remain far above safe limits.
 
 **2. Seasonal Pollution Pattern**
+<img width="1477" height="778" alt="image" src="https://github.com/user-attachments/assets/cc17d683-31da-4acc-932d-96244c3461a8" />
 
-*.*Severe pollution spikes occur every winter.
 
-*.*Pollution levels drop during monsoon months but remain unhealthy.
+•Severe pollution spikes occur every winter.
+
+•Pollution levels drop during monsoon months but remain unhealthy.
 
 **3. AQI Category Distribution**
+<img width="1478" height="782" alt="image" src="https://github.com/user-attachments/assets/f14f6dc8-3af0-4c6b-a791-2fd4ea3dac70" />
 
-Over 60% of recorded hours fall under Poor to Severe AQI.
 
-Clean air conditions are extremely rare.
+•Over 60% of recorded hours fall under Poor to Severe AQI.
+
+•Clean air conditions are extremely rare.
 
 **4. Clean Air Days**
+<img width="1470" height="378" alt="image" src="https://github.com/user-attachments/assets/7ff06360-d289-44bf-a76a-e74e08cee41d" />
 
-Only 31 clean days recorded across four years.
+•Only 31 clean days recorded across four years.
 
-Indicates chronic exposure rather than episodic pollution.
+•Indicates chronic exposure rather than episodic pollution.
 
 **Dashboards**
 
@@ -165,16 +173,19 @@ Power BI Dashboard
 **📊 Delhi Air Quality Insights (2020–2023)**
 
 **(Interactive visuals covering trends, pollutants, AQI categories, and clean days)**
+<img width="1919" height="935" alt="Screenshot 2025-12-19 123035" src="https://github.com/user-attachments/assets/aa1dc473-dbbf-40c5-aec5-9936450aa9ae" />
 
-Recommendations
 
-*.*Focus policy efforts on PM2.5 and PM10 reduction
+**Recommendations**
 
-*.*Introduce predictive pollution forecasting
+•Focus policy efforts on PM2.5 and PM10 reduction
 
-*.*Implement permanent dust and construction controls
+•Introduce predictive pollution forecasting
 
-*.*Strengthen Delhi–NCR regional coordination
+•Implement permanent dust and construction controls
 
-*.*Shift from reactive bans to preventive strategies
+•Strengthen Delhi–NCR regional coordination
+
+•Shift from reactive bans to preventive strategies
+
 
