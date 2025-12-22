@@ -2,6 +2,9 @@
 
 A Data-Driven Analysis of Urban Air Pollution in India’s Capital
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/a10cff13-e306-47ee-a57e-58439816cba0" />
+
+
 **Introduction**
 
 **Delhi Air Pollution Crisis**
@@ -187,5 +190,6 @@ Power BI Dashboard
 •Strengthen Delhi–NCR regional coordination
 
 •Shift from reactive bans to preventive strategies
+
 
 
