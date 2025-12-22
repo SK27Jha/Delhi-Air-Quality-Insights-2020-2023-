@@ -1,9 +1,9 @@
-Delhi Air Quality Insights (2020–2023)
+**Delhi Air Quality Insights (2020–2023)**
 A Data-Driven Analysis of Urban Air Pollution in India’s Capital
 
-**Introduction
+**Introduction**
 
-**Delhi Air Pollution Crisis
+**Delhi Air Pollution Crisis**
 
 Delhi consistently ranks among the most polluted cities in the world. Rapid urbanization, vehicular emissions, construction activity, industrial pollution, biomass burning, and adverse meteorological conditions contribute to severe deterioration in air quality—especially during winter months.
 
@@ -11,29 +11,29 @@ This project presents a comprehensive data analytics study of Delhi’s air qual
 
 The objective is not just visualization, but actionable insight generation for public health awareness and policy-level understanding.
 
-About the Project
+**About the Project**
 
-Domain: Environmental Data Analytics
+**Domain:** Pollution Data Analytics
 
-Location: Delhi, India
+**Location:** Delhi, India
 
-Time Period: 2020 – 2023
+**Time Period:** 2020 – 2023
 
-Data Granularity: Hourly observations
+**Data Granularity:** Hourly observations
 
-Project Type: End-to-End Data Analytics Case Study
+**Project Type:** End-to-End Data Analytics Case Study
 
-Problem Statement
+**Problem Statement**
 
 Air pollution in Delhi poses a serious threat to public health and environmental sustainability. Despite multiple policy interventions, pollution levels remain persistently high.
 
-This project aims to address the following questions:
+**This project aims to address the following questions:**
 
-What are the dominant pollutants affecting Delhi’s air quality?
+*.*What are the dominant pollutants affecting Delhi’s air quality?
 
-How does air pollution vary seasonally and monthly?
+*.*How does air pollution vary seasonally and monthly?
 
-How frequently does Delhi experience clean air?
+*.*How frequently does Delhi experience clean air?
 
 Which AQI categories dominate over time?
 
@@ -41,65 +41,66 @@ Is air pollution episodic or structurally recurring?
 
 Objectives
 
-Clean and preprocess large-scale hourly air quality data
+*.*Clean and preprocess large-scale hourly air quality data
 
-Perform exploratory data analysis (EDA)
+*.*Perform exploratory data analysis (EDA)
 
-Identify seasonal and temporal pollution trends
+*.*Identify seasonal and temporal pollution trends
 
-Analyze pollutant-wise contribution to air quality
+*.*Analyze pollutant-wise contribution to air quality
 
-Classify air quality using standard AQI categories
+*.*Classify air quality using standard AQI categories
 
-Build an interactive dashboard for insight delivery
+*.*Build an interactive dashboard for insight delivery
 
 Dataset Description
 
 The dataset contains hourly air quality records for Delhi, sourced from open air quality monitoring platforms.
 
-Key Features
-Column Name	Description
-date	Timestamp (DD-MM-YYYY HH:MM)
-pm2_5	PM2.5 concentration
-pm10	PM10 concentration
-no	Nitric Oxide
-no2	Nitrogen Dioxide
-so2	Sulphur Dioxide
-o3	Ozone
-nh3	Ammonia
-Tools & Technologies Used
+**Key Features**
 
-Python – Data cleaning & EDA
+**Column Name	Description**
 
-Pandas & NumPy – Data manipulation
+*.*Date	
+*.*PM2.5 concentration
+*.*PM10 concentration
+*.*NO	Nitric Oxide
+*.*N02	Nitrogen Dioxide
+*.*SO2	Sulphur Dioxide
+*.*O3	Ozone
+*.*NH3	Ammonia
 
-Matplotlib & Seaborn – Visualization
+**Tools & Technologies Used**
 
-Power BI – Interactive dashboard creation
+**Python – Data cleaning & EDA**
 
-Excel – Preliminary inspection
+**Pandas & NumPy – Data manipulation**
 
-GitHub – Version control & documentation
+**Power BI – Interactive dashboard creation**
 
-Methodology
+**Excel – Preliminary inspection**
 
-Data Cleaning
+**GitHub – Version control & documentation**
 
-Handling missing values
+**Methodology**
 
-Timestamp standardization
+*.*Data Cleaning
 
-Outlier inspection
+*.*Handling missing values
 
-Data type correction
+*.*Timestamp standardization
 
-Exploratory Data Analysis
+*.*Outlier inspection
 
-Pollutant-wise averages
+*.*Data type correction
 
-Time-series analysis
+*.*Exploratory Data Analysis
 
-Seasonal & monthly trend identification
+*.*Pollutant-wise averages
+
+*.*Time-series analysis
+
+**Seasonal & monthly trend identification**
 
 Air Quality Classification
 
@@ -107,7 +108,7 @@ AQI category mapping
 
 Distribution analysis of AQI classes
 
-Dashboard Development
+**Dashboard Development**
 
 KPI cards
 
@@ -131,45 +132,49 @@ Total number of clean air days
 
 Monthly pollution intensity
 
-Summary of Results
-1. Particulate Matter Dominance
+**Summary of Results**
 
-PM10 and PM2.5 are the primary drivers of Delhi’s poor air quality.
+**1. Particulate Matter Dominance**
 
-Average PM2.5 values remain far above safe limits.
+*.*PM10 and PM2.5 are the primary drivers of Delhi’s poor air quality.
 
-2. Seasonal Pollution Pattern
+*.*Average PM2.5 values remain far above safe limits.
 
-Severe pollution spikes occur every winter.
+**2. Seasonal Pollution Pattern**
 
-Pollution levels drop during monsoon months but remain unhealthy.
+*.*Severe pollution spikes occur every winter.
 
-3. AQI Category Distribution
+*.*Pollution levels drop during monsoon months but remain unhealthy.
+
+**3. AQI Category Distribution**
 
 Over 60% of recorded hours fall under Poor to Severe AQI.
 
 Clean air conditions are extremely rare.
 
-4. Clean Air Days
+**4. Clean Air Days**
 
 Only 31 clean days recorded across four years.
 
 Indicates chronic exposure rather than episodic pollution.
 
-Dashboards
+**Dashboards**
+
 Power BI Dashboard
 
-📊 Delhi Air Quality Insights (2020–2023)
-(Interactive visuals covering trends, pollutants, AQI categories, and clean days)
+**📊 Delhi Air Quality Insights (2020–2023)**
+
+**(Interactive visuals covering trends, pollutants, AQI categories, and clean days)**
 
 Recommendations
 
-Focus policy efforts on PM2.5 and PM10 reduction
+*.*Focus policy efforts on PM2.5 and PM10 reduction
 
-Introduce predictive pollution forecasting
+*.*Introduce predictive pollution forecasting
 
-Implement permanent dust and construction controls
+*.*Implement permanent dust and construction controls
 
-Strengthen Delhi–NCR regional coordination
+*.*Strengthen Delhi–NCR regional coordination
 
-Shift from reactive bans to preventive strategies
+*.*Shift from reactive bans to preventive strategies
+
